@@ -1,0 +1,8 @@
+a:hover {
+    text-decoration: none;
+}
+
+#item-list-paragraph {
+    margin-right: 10px;
+    color: rgb(27, 26, 26);
+}
